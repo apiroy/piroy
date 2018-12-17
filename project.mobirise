@@ -870,7 +870,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "BATHROOM FAUCETS",
+                "caption": "Bathroom Faucets display",
                 "active": false
               },
               {
@@ -883,7 +883,20 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "BATHROOM FAUCETS",
+                "caption": "Bathroom Faucets display",
+                "active": false
+              },
+              {
+                "tags": "Animada",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/kitchen-griferia-faucet.ok-1559x992.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kitchen-griferia-faucet.ok-1559x992-800x509.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Kitchen Faucets",
                 "active": true
               }
             ]
