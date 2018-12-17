@@ -871,7 +871,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Bathroom Faucets display",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animada",
@@ -879,7 +879,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/casetones-griferias-gian-600x800.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/casetones-griferias-gian-600x800-600x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/casetones-griferias-gian-600x800-473x570.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -897,7 +897,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Kitchen Faucets",
-                "active": true
+                "active": false
               }
             ]
           }
