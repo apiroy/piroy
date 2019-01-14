@@ -2035,6 +2035,46 @@ body {
   flex-direction: column;
   -webkit-flex-direction: column;
 }
+.cid-rf91lPHpEd {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-rf91lPHpEd .card-box {
+  padding: 0 2rem;
+}
+.cid-rf91lPHpEd .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-rf91lPHpEd .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-rf91lPHpEd h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-rf91lPHpEd p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-rf91lPHpEd .mbr-text {
+  color: #767676;
+}
+.cid-rf91lPHpEd .card-wrapper {
+  height: 100%;
+  padding-bottom: 2rem;
+  background: #ffffff;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rf91lPHpEd .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
 .cid-reQGPag1t1 {
   padding-top: 45px;
   padding-bottom: 30px;
